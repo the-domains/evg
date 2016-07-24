@@ -1,0 +1,14 @@
+layout_spectrum: 0.8763441
+color:
+  saturation: 0.4139785
+  brandStrength: 0.5994296
+  lightness: 0.5519713
+  rhythmicContrast: 0.1097528
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 0.9175627
+name: evg
